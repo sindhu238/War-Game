@@ -299,6 +299,7 @@
 				41414C631DCA027F0088585D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
